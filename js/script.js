@@ -6,6 +6,7 @@ function topo(){
         behavior: 'smooth'
     })
 }
+
 //Validação de Login
 function LargestContentfulPaint(){
     var logado = 0;
@@ -22,6 +23,7 @@ function LargestContentfulPaint(){
         alert("Acesso Negado. Dados incorretos!")
     }
 }
+
 //Ativar alert no botão cadastrar
 function cadastro(){
     alert("Cadastrado com sucesso!");

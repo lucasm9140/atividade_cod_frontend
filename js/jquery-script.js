@@ -7,6 +7,5 @@ $(document).ready(function(){
         $("form-cadastrar").slide.Toggle("slow");
         $("section-login").slide.Toggle("slow");
         $("botao-cadastrar").hide();
-    })
-             
+    }) 
 });
